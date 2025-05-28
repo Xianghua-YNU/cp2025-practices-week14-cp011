@@ -1,6 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
+
 项目1：Lotka-Volterra捕食者-猎物模型 - 学生代码模板
 
 学生姓名：肖澎请填写您的姓名]
